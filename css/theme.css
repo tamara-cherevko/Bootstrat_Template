@@ -1,0 +1,21 @@
+/* need to override */
+
+/*   1. Set the global link color    */
+a{}
+a:hover,
+a:focus {}
+a:focus {}
+
+/*   2. Set the typographic base    */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {}
